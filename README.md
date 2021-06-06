@@ -17,7 +17,7 @@ Django integration
 3. The logic of the code is integrated within the views.py
 4. Returns JSON response.
 
-## Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+## [Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets](https://github.com/aruneshroy91/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets)
 Analyze data to understand what type of apps are likely to attract more users
 * Description of the Apple Store dataset 
 One can find the dataset [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
