@@ -2,6 +2,8 @@
 
 ## [Project 1: A simple Django app to find page ranking in google by keywords.](https://github.com/aruneshroy91/django-pagerank)
 
+### Keywords:- Python, Django, Google Search API, HTML
+
 1. First fetch the google search data. To solve this use Requests
 package along with custom search engine and a generated API key is used to obtain the google
 search data.
@@ -18,6 +20,9 @@ Django integration
 4. Returns JSON response.
 
 ## [Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets](https://github.com/aruneshroy91/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets)
+
+### Keywords:- Python, Data cleaning, List of lists, Data analysis
+
 Analyze data to understand what type of apps are likely to attract more users
 * Description of the Apple Store dataset 
 One can find the dataset [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
