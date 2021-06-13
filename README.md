@@ -4,28 +4,14 @@
 
 ### Keywords:- Python, Django, Google Search API, HTML
 
-1. First fetch the google search data. To solve this use Requests
-package along with custom search engine and a generated API key is used to obtain the google
-search data.
-2. A code for making the query and ranking :
-◦ A loop over all 10 pages fetched by Google search
-◦ API request is made to fetch search data for particular page with desired keyword
-◦ Another loop inside the first loop investigates the page data to obtain the desired keyword
-and parent domain.
-◦ If the domain name ends with target domain we get the page rank and other features printed.
-Django integration
-1. In home.html we ask for the input, target domain and the keyword(s).
-2. Send the input data in the add function of views.py
-3. The logic of the code is integrated within the views.py
-4. Returns JSON response.
+Find pagerank of a particular domain for specfic keywords using Google search API. In this Django, one inputs the keywords and the main domain and gets the pagerank if any page of the parent domain ranks within the first 100 search results. The output is a JSON response.    
 
 ## [Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets](https://github.com/aruneshroy91/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets)
 
 ### Keywords:- Python, Data cleaning, List of lists, Data analysis
 
-Analyze data to understand what type of apps are likely to attract more users
-* Description of the Apple Store dataset 
-One can find the dataset [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
+Analyze data to understand what type of apps are likely to attract more users for both [iOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and Google playstore apps.
+
 * Data Cleaning
 We are interested in free English apps
 * Remove duplicate entries
