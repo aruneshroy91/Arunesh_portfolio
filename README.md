@@ -8,9 +8,9 @@ Find pagerank of a particular domain for specfic keywords using Google search AP
 
 ## [Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets](https://github.com/aruneshroy91/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets)
 
-### Keywords:- Python, Data cleaning, List of lists, Data analysis
+### Keywords:- Python, Data cleaning, Data analysis,
 
-Analyze data to understand what type of apps are likely to attract more users for both [iOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and Google playstore apps.
+Analyze data to understand what type of apps are likely to attract more users for both [iOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and [Google playstore](https://www.kaggle.com/lava18/google-play-store-apps) apps.
 
 * Data Cleaning
 We are interested in free English apps
