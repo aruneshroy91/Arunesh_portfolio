@@ -4,9 +4,14 @@
 
 ### Keywords:- Python, Django, Google Search API, HTML
 
-* Find pagerank of a particular domain for specfic keywords using Google search API. 
-* One inputs the keywords and the main domain and gets the pagerank if any page of the parent domain ranks within the first 100 search results. 
-* The output is a JSON response.    
+* Pagerank using Google API
+Find pagerank of a particular domain for specfic keywords using Google search API.
+
+* Django interface 
+One inputs the keywords and the main domain and gets the pagerank if any page of the parent domain ranks within the first 100 search results. 
+
+* Output
+The output is a JSON response.    
 
 ## [Project 2: Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets](https://github.com/aruneshroy91/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets)
 
