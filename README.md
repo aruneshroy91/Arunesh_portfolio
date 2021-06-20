@@ -22,3 +22,9 @@ Clean for free English apps, Remove duplicate entries, cleaned for unique data, 
 
 * Data Analysis Most profitable app profile
 What type of apps are likely to attract more users for both iOS [App Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and Android [Google Play Store](https://www.kaggle.com/lava18/google-play-store-apps) apps.
+
+## [Project 3: CIA World Factbook, a compendium of statistics about all of the countries on Earth]()
+
+### Keywords:- SQLite Queries
+
+  
